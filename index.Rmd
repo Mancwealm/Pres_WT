@@ -48,7 +48,7 @@ James Lester
 > * Whilst SIV really should be familiar to you all, others may well be less so
 > * Simian Foamy Virus - Retrovirus transmitted through saliva
 > * Simian Haemorrhagic Fever Viruses - Arteriviruses transmitted through ???
-> * Simian Pegivirus - Flaviviruses transmitted *maybe* through sexual, vertical and parenteral routes
+> * Simian Pegivirus - Flavivirus transmitted *maybe* through sexual, vertical and parenteral routes
 
 ---
 
@@ -61,7 +61,6 @@ James Lester
 --- 
 
 ## Virus-level findings, in (very) brief
-Figs here?
 > * Age-dependent accumulation of all viruses, especially in males
 > * Coinfection at the level of viral presence, and sequence co-clustering for the SHFV viruses
 > * Detection of viral clusters between siblings for all viruses, between mother-offspring pairs for SHFV2
