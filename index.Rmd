@@ -65,7 +65,7 @@ Figs here?
 > * Age-dependent accumulation of all viruses, especially in males
 > * Coinfection at the level of viral presence, and sequence co-clustering for the SHFV viruses
 > * Detection of viral clusters between siblings for all viruses, between mother-offspring pairs for SHFV2
-> * Non-familial clustering between some male-female pairs for SHFV2
+> * Non-familial clustering between some male-female pairs for SHFV1 + 2
 > * <font color=#a23>Positive correlation between enacting aggressive behaviour in year of sampling (2012) and SHFV infection status</font>
 
 ---
