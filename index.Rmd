@@ -98,5 +98,3 @@ James Lester
 > * Molecular Ecology and Natural History of Simian Foamy Virus Infection in Wild-Living Chimpanzees, Liu et al. 2008</i>
 > * Simian Immunodeficiency Virus Infection in Free-Ranging Sooty Mangabeys (Cercocebus atys atys) from the Tai Forest, Cote d'Ivoire: Implications for the Origin of Epidemic Human Immunodeficiency Virus Type 2, Santiago et al. 2005
 > * Familiarity and dominance relations among female sooty mangabeys in the Tai National Park, Range et al. 2002</font></i>
-
----
