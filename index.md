@@ -81,15 +81,14 @@ James Lester
 
 > * 3 years of sociosexual behaviour provide a basis to consider the relationship between grooming interactions, nearest-neighbour interactions and agonism/copulation.
 > * This is a basis which can then be expanded into many years of past behaviour
-> * And of course, alongside this, infection status and relatedness
 
 ---
 
 ## Key aims of this work
 
-> * Key aims of this are to identify patterns of associative/affiliative patterns of behaviour, and demographic factors, which seem associated with agonistic behaviour/copulation
-> * How these behaviours change over the course of the substantial timeframe considered as individuals move between age classes etc.
-> * And therein, how these then relate to infection status
+> * Identify patterns of associative/affiliative behaviour and demographic factors associated with agonism/copulation.
+> * Use these patterns to infer past patterns of interaction and dominance
+> * Compare these to both patterns of infection, and of clustering
 
 ---
 
