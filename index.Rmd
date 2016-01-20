@@ -31,7 +31,7 @@ James Lester
 
 > * Whilst we're very aware of the existence and zoonotic potential of viruses such as SIV and SFV, we still know relatively little of their wildlife dynamics
 > * Various studies have approached single viruses in the past, but typically very "disconnected" overall
-> * Faecal virological data alone, occasionally with age, or with maternal relations, or dominance hierarchy
+> * Faecal virological data alone, occasionally with age, maternal relations, or dominance hierarchy
 
 ---
 
@@ -80,15 +80,15 @@ James Lester
 ## Synthesising behavioural and virological data
 
 > * 3 years of sociosexual behaviour provide a basis to consider the relationship between grooming interactions, nearest-neighbour interactions and agonism/copulation.
-> * This is a basis which can then be expanded into many years of past behaviour
+> * This can then be expanded into many years of past behaviour
 
 ---
 
 ## Key aims of this work
 
 > * Identify patterns of associative/affiliative behaviour and demographic factors associated with agonism/copulation.
-> * Use these patterns to infer past patterns of interaction and dominance
-> * Compare these to both patterns of infection, and of clustering
+> * Use these to infer past interactions and dominance
+> * Compare these to both distribution of infection, and clustering thereof
 
 ---
 
