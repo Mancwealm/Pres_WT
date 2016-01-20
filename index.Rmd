@@ -37,7 +37,7 @@ James Lester
 
 ## Why? (General)
 
-> * Primate zoonoses remain a concern - Precedent set by SIV, albeit with this clearly indicated to be a rare consequence likely borne of an unusual set of circumstances.
+> * Primate zoonoses remain a concern - Precedent set by SIV, albeit with this clearly indicated to be a rare consequence likely borne of an unusual set of circumstances
 > * Better understanding how these pathogens behave in the wild may better inform us about if and how they could pose a risk to the human population
 > * Also, interesting from a wildlife disease epidemiology perspective
 
@@ -79,14 +79,14 @@ James Lester
 
 ## Synthesising behavioural and virological data
 
-> * 3 years of sociosexual behaviour provide a basis to consider the relationship between grooming interactions, nearest-neighbour interactions and agonism/copulation.
+> * 3 years of sociosexual behaviour provide a basis to consider the relationship between grooming interactions, nearest-neighbour interactions and agonism/copulation
 > * This can then be expanded into many years of past behaviour
 
 ---
 
 ## Key aims of this work
 
-> * Identify patterns of associative/affiliative behaviour and demographic factors associated with agonism/copulation.
+> * Identify patterns of associative/affiliative behaviour and demographic factors associated with agonism/copulation
 > * Use these to infer past interactions and dominance
 > * Compare these to both distribution of infection, and clustering thereof
 
