@@ -34,7 +34,7 @@ James Lester
 
 *** =right
 
-<img src=assets/img/FragMap.svg alt = "VirAge", width="100%">
+<img src=assets/img/FragMap.png alt = "VirAge", width="100%">
 
 --- &twocol
 
@@ -75,7 +75,7 @@ James Lester
   - Has a human analog - HPgV
   - Associated with presence of other blood-borne or sexually transmitted infections
   - Vertical transmission, either prenatal or during birth
-  
+
 ---
 
 ### Our approach
