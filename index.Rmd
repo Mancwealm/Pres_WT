@@ -34,7 +34,7 @@ James Lester
 
 *** =right
 
-<img src=assets/img/FragMap.png alt = "VirAge", width="100%">
+<img src=assets/img/FragMap.jpg alt = "VirAge", width="100%">
 
 --- &twocol
 
