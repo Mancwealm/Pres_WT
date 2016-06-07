@@ -14,86 +14,159 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Sex, Violence and Simian viruses
+### Patterns of RNA virus infection and transmission within a wild simian zoonotic reservoir in Uganda
 James Lester
 
----
+<img src=assets/img/KEP.svg alt = "KEP", height = "200">
+<img src=assets/img/Cam_Logo.png alt = "University of Cambridge", height = "200">
 
-## What?
+--- &twocol
 
-> * Looking at the viruses of a red colobus population living within Kibale National Park
-> * Considering <a href="url">SIV</a>, <a href="url">SFV</a>, <a href="url">SPgV</a>, <a href="url">SHFV1</a> and <a href="url">SHFV2</a>
-> * Access to a combination of demographic, viral presence/absence, behavioural and sequence data (which match up to varying degrees)
+### The context of viral transmission in Kibale National Park
 
----
+*** =left
 
-## Why? (Academic)
+- KNP a 776 km<sup>2</sup> area of protected forest
+- Diverse primate community
+- Of great conservation, and potential zoonosis interest
 
-> * Whilst we're very aware of the existence and zoonotic potential of viruses such as SIV and SFV, we still know relatively little of their wildlife dynamics
-> * Various studies have approached single viruses in the past, but typically very "disconnected" overall
-> * Faecal virological data alone, occasionally with age, maternal relations, or dominance hierarchy
+<small>(Figure: <i>Lessons about parks and poverty from a decade of forest loss and economic growth around Kibale National Park, Uganda, Naughton-Treves et al, 2011</i>)</small>
 
----
+*** =right
 
-## Why? (General)
+<img src=assets/img/FragMap.svg alt = "VirAge", width="100%">
 
-> * Primate zoonoses remain a concern - Precedent set by SIV, albeit with this clearly indicated to be a rare consequence likely borne of an unusual set of circumstances
-> * Better understanding how these pathogens behave in the wild may better inform us about if and how they could pose a risk to the human population
-> * Also, interesting from a wildlife disease epidemiology perspective
+--- &twocol
 
----
+### Our reservoir of interest - Kibale red colobus
 
-## Which?
+*** =left
 
-> * Whilst SIV really should be familiar to you all, others may well be less so
-> * Simian Foamy Virus - Retrovirus transmitted through saliva
-> * Simian Haemorrhagic Fever Viruses - Arteriviruses transmitted through ???
-> * Simian Pegivirus - Flavivirus transmitted *maybe* through sexual, vertical and parenteral routes
+- Especially sensitive to environmental change
+- Live in multi-male groups of 19-80 individuals
+- Predated by chimps
+- Known hosts of **SIV**, **SFV**, **SPgV** and **SHFV1/2**
 
----
+*** =right
 
-## An update on last year
-
-> * LVZ 2015 - Beginning to unpick behavioural dataset
-> * Mid 2015 - Viral takeover - Behavioural work drifts away
-> * End 2015 - Virus-level analysis "complete"
-
---- 
-
-## Virus-level findings, in (very) brief
-> * Age-dependent accumulation of all viruses, especially in males
-> * Coinfection at the level of viral presence, and sequence co-clustering for the SHFV viruses
-> * Detection of viral clusters between siblings for all viruses, between mother-offspring pairs for SHFV2
-> * Non-familial clustering between some male-female pairs for SHFV1 + 2
-> * <font color=#a23>Positive correlation between enacting aggressive behaviour in year of sampling (2012) and SHFV infection status</font>
+<img src=assets/img/rcb.jpg alt = "VirAge", width="80%">
 
 ---
 
-## Where next? 
+### Viruses of interest: **SIV** and **SFV**
 
-> * 3 years of copulatory/agonistic data
-> * Alongside 9 years of general behavioural data
-> * One-off virus sampling sampling in 2012 + 2010
-
----
-
-## Synthesising behavioural and virological data
-
-> * 3 years of sociosexual behaviour provide a basis to consider the relationship between grooming interactions, nearest-neighbour interactions and agonism/copulation
-> * This can then be expanded into many years of past behaviour
+- **SIV**
+  - Considerable variation in prevalence between populations, fluid transmission
+  - <p>Relatively low prevalences identified within Kibale RCB, as opposed to Ta&iuml; and others</p> 
+  - Associated with dominance rank in sooty mangabeys
+- **SFV**
+  - Consistently observed at high prevalence within RCB populations, salivary transmission
+  - Maternal clustering identified within chimpanzees
 
 ---
 
-## Key aims of this work
+### Viruses of interest: SHFV(1/2) and SPgV
 
-> * Identify patterns of associative/affiliative behaviour and demographic factors associated with agonism/copulation
-> * Use these to infer past interactions and dominance
-> * Compare these to both distribution of infection, and clustering thereof
+- **SHFV(1/2)**
+  - Only recently identified in the wild, no previous epidemiology
+  - Previously involved in research facility outbreaks, able to readily spread amongst infected hosts, not airborne
+- **SPgV**
+  - Similarly, only recently identified within wild-living primates, no previous epidemiology
+  - Has a human analog - HPgV
+  - Associated with presence of other blood-borne or sexually transmitted infections
+  - Vertical transmission, either prenatal or during birth
+---
+
+### Our approach
+
+- Deep sequencing of blood samples from two red colobus troops
+  - Allowing us to obtain full-length genomes for **SHFV(1/2)** and **SPgV**
+  - Alongside clear identification of coinfections
+  - Able to use sequencing not just as a diagnostic tool, but also to cluster infections
+- Monthly behavioural scans for one of these groups over several consecutive days, with one focal red colobus troop
+- Microsatellite data for each sampled individual
 
 ---
 
-## Useful references
-<i> <font size="6">
-> * Molecular Ecology and Natural History of Simian Foamy Virus Infection in Wild-Living Chimpanzees, Liu et al. 2008</i>
-> * Simian Immunodeficiency Virus Infection in Free-Ranging Sooty Mangabeys (Cercocebus atys atys) from the Tai Forest, Cote d'Ivoire: Implications for the Origin of Epidemic Human Immunodeficiency Virus Type 2, Santiago et al. 2005
-> * Familiarity and dominance relations among female sooty mangabeys in the Tai National Park, Range et al. 2002</font></i>
+### Our approach (cont.)
+
+<img src=assets/img/NeatTrees.svg alt = "VirAge", width="80%">
+
+---
+
+### Key questions
+- What are the demographic correlates of infection with these viruses?
+- Do they associate with each other?
+- Does infection with these viruses relate to patterns of behaviour?
+- Can viral clustering be related to this?
+
+---
+
+### Correlates of infection
+<img src=assets/img/NewVirAge.svg alt = "VirAge", width="100%">
+
+---
+
+### Patterns of coinfection
+<img src=assets/img/ORBoot.svg alt = "ORCoinf", width="70%">
+
+---
+
+### Patterns of infection clustering
+<img src=assets/img/NewSplit.svg alt = "InfClust", width="100%">
+
+---
+
+### Behavioural correlates of infection
+<img src=assets/img/AggMCust2.svg alt = "ORCoinf", width="80%">
+
+---
+
+### Behavioural correlates of infection clustering
+<img src=assets/img/ERGMAgg2.svg alt = "ORCoinf", width="90%">
+
+---
+
+### Conclusions
+- Strong indications of age-associated accumulation of infection in certain contexts - Particularly females
+- Indications of both horizontal and vertical transmission
+- Co-infection with only the **SHFV** viruses indicated
+- Association between agonistic, copulatory and associative behaviour and SHFV infection, not so for **GBV** and **SIV**
+
+---
+
+### Remaining questions and further work
+
+- Low prevalence of **SIV**, and lack of association with dominance
+- High **SPgV** prevalence with no association with dominance - Patterns of recovery and immunity?
+- Why **SHFV** relates so strongly to patterns of agonism and other indications of social dominance?
+- Requires further analysis of within-sample viral diversity
+- Longitudinal viral sampling, for molecular clock calibration and potential dating of divergence
+
+--- &twocol
+
+### Acknowledgements
+
+*** =left
+- James Holland Jones
+- William M. Switzer
+- Colin Chapman
+- Nelson Ting
+- Simon Frost
+- Tony Goldberg
+- Sam Sibley
+- Bethany Dearlove
+- Geoffrey Weny
+- David Hyeroba
+- Alex Tumukunde 
+
+*** =right
+**Funding**
+- ESRC
+- NIH
+
+<img src=assets/img/ESRC.jpg alt = "ESRC", width="200">
+<img src=assets/img/NIH.png alt = "NIH", width="200"><br>
+<img src=assets/img/KEP.svg alt = "KEP", width="200">
+
+---
