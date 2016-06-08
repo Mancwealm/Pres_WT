@@ -129,10 +129,10 @@ James Lester
 ---
 
 ### Conclusions
-- Strong indications of age-associated accumulation of infection in certain contexts - Particularly females
-- Indications of both horizontal and vertical transmission
+- Indications of age-associated accumulation of infection in certain contexts - Particularly females
+- Indications of both horizontal and (more tentatively) vertical transmission
 - Co-infection with only the **SHFV** viruses indicated
-- Association between agonistic, copulatory and associative behaviour and SHFV infection, not so for **GBV** and **SIV**
+- Association between agonistic, copulatory and associative behaviour and SHFV infection, not so for **SPgV** and **SIV**
 
 ---
 
