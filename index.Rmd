@@ -147,27 +147,42 @@ James Lester
 --- &twocol
 
 ### Acknowledgements
-
+<small>
 *** =left
-- James Holland Jones
-- William M. Switzer
-- Colin Chapman
-- Nelson Ting
+**University of Cambridge**
 - Simon Frost
+- Bethany Dearlove
+
+**University of Madison-Wisconsin**
 - Tony Goldberg
 - Sam Sibley
-- Bethany Dearlove
+
+**Stanford University**
+- James Holland Jones
+
+**CDC**
+- William M. Switzer
+
+**McGill University**
+- Colin Chapman
+
+*** =right
+
+**University of Oregon**
+- Nelson Ting
+- Maria Jose Ruiz-Lopez
+
+**Makerere University**
 - Geoffrey Weny
 - David Hyeroba
 - Alex Tumukunde 
 
-*** =right
 **Funding**
 - ESRC
 - NIH
 
-<img src=assets/img/ESRC.jpg alt = "ESRC", width="200">
-<img src=assets/img/NIH.png alt = "NIH", width="200"><br>
+<img src=assets/img/ESRC.jpg alt = "ESRC", height="100">
+<img src=assets/img/NIH.png alt = "NIH", height="100">
 <img src=assets/img/KEP.svg alt = "KEP", width="200">
-
+<small>
 ---
